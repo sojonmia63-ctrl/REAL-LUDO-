@@ -2,8 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { AppProvider, useApp } from './context/AppContext';
 import { AuthModal } from './components/AuthModal';
 import { UserApp } from './components/UserApp';
-import { AdminAuth } from './components/AdminPanel/AdminAuth';
-import { AdminLayout } from './components/AdminPanel/AdminLayout';
+import { AdminAuth } from './components/AdminAuth';
+import { AdminLayout } from './components/AdminLayout';
 
 const MainAppContent: React.FC = () => {
   const { currentUser } = useApp();
