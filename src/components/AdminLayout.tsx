@@ -194,4 +194,3 @@ export const AdminLayout: React.FC<AdminLayoutProps> = ({ onLogoutAdmin, onSwitc
     </div>
   );
 };
-          
