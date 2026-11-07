@@ -1,0 +1,18 @@
+{
+  "name": "Real Ludo - খেলো • জিতো • টাকা নাও",
+  "short_name": "Real Ludo",
+  "description": "বাংলাদেশের সেরা অনলাইন লুডু টুর্নামেন্ট ও রিয়েল আর্নিং মোবাইল প্ল্যাটফর্ম",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#8B0000",
+  "theme_color": "#8B0000",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%238B0000'/><text x='50%' y='55%' font-size='50' text-anchor='middle' dominant-baseline='middle'>🎲</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
