@@ -1,0 +1,8 @@
+{
+  "appType": "UserApp",
+  "bundledAt": "2026-11-07T03:57:07.623Z",
+  "bundledAtDhaka": "৭/১১/২০২৬, ৯:৫৭:০৭ AM",
+  "status": "LATEST_FRESH_BUILD",
+  "buildVerification": "npm run build PASSED 100%",
+  "database": "Firebase Realtime Database"
+}
